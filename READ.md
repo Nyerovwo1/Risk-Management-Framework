@@ -46,7 +46,7 @@ Risk management is important because the charity handles sensitive information o
 
 ## Risk Management Policy
 
-> 📄 **[View the Risk Management Policy Document](/Assets/Risk%20management%20Policy.docx)**
+>  **[View the Risk Management Policy Document](/Assets/Risk%20management%20Policy.pdf)**
 
 *The Risk Management Policy establishes the framework for how Meridian Charity identifies, assesses, and manages risks across the organization.*
 
@@ -74,7 +74,7 @@ An asset is anything that has actual or potential value to an organization.
 
 Take inventory of Meridian Charity's asset which include primary asset and supporting asset. Assets should be classified and assigned to their various owners.
 
-> 🖼️ **[View Asset Classification Diagram](/Assets/Image%201%20asset%20inventory.docx)**
+> **[View Asset Classification Diagram](/Assets/Image%201%20asset%20inventory.pdf)**
 
 *Image 1: Asset Classification and Ownership Structure*
 
@@ -101,7 +101,7 @@ Using a 5 x 5 matrix the risk score would range from 1 to 25:
 | **2 (Low)**              | 2        | 4            | 6            | 8          | 10          |
 | **1 (Very Low)**         | 1        | 2            | 3            | 4          | 5           |
 
-> 🖼️ **[View Risk Matrix Diagram](/Assets/Image%202%20risk%20matric.docx)**
+> **[View Risk Matrix Diagram](/Assets/Image%202%20risk%20matric.pdf)**
 
 *Image 1.2: Risk Matrix*
 
@@ -119,7 +119,7 @@ Based on the comparison, each risk is categorized in one of the four categories 
 
 Meridian Charity's supports vulnerable people and handles sensitive information so it has low risk appetite in areas that could affect safeguarding, beneficiary data and welfare, data protection and legal compliance, financial integrity and the charity's reputation. Risk assessed as high or very high exceed the charity's risk acceptance criteria and must be treated to reduce the level of risk. Low and Medium risk may be accepted where necessary controls are in place and are subject to regular monitoring.
 
-**[View Risk Treatment Process Diagram](/Assets/Image%203risk%20acceptance%20criteria.docx)**
+**[View Risk Treatment Process Diagram](/Assets/Image%203risk%20acceptance%20criteria.pdf)**
 
 | Risk Level/Score | Acceptance Criteria | Action |
 |-------------------|---------------------|--------|
@@ -134,7 +134,7 @@ Meridian Charity's supports vulnerable people and handles sensitive information 
 
 The Risk Register is a core component of the Risk Management process. It provides a structured record of all identified risk that may affect the confidentiality, integrity and availability of Meridian Charity's assets. A Risk Register is essential because it supports informed decision-making allowing Board of Trustees to prioritize risks based on likelihood and impact, ensuring resources are allocated efficiently.
 
-> 📊 **[View the Complete Risk Register](/Assets/~$Risk%20Register.xlsx)**
+>  **[View the Complete Risk Register](/Assets/~$Risk%20Register.xlsx)**
 
 *The Risk Register contains all identified risks with their likelihood, impact, risk scores, owners, and treatment plans.*
 
@@ -155,7 +155,7 @@ Meridian Charity has decided to manage the risk by treating it. The purpose of t
 
 A risk treatment plan is developed and logged in the risk register, controls are implemented and the strength of the controls are subtracted from the baseline risk score to achieve the residual risk score. The residual impact and residual likelihood score is reduced which leads to a reduction in the residual risk. If the residual risk is still above the risk acceptance criteria, decisions would be made to implement more controls to bring the risk to an acceptable level. Target due dates for fixing the risk are assigned and if it extends, written explanations or reasons should be attached to enable the auditor have a clear reason for the delay.
 
-> 🖼️ **[View Risk Treatment Process Diagram](/Assets/Risk%20Register.xlsx)**
+> **[View Risk Treatment Process Diagram](/Assets/Risk%20Register.xlsx)**
 
 *Image 3: Risk Treatment Plan and Control Implementation Process*
 
@@ -181,24 +181,15 @@ Communication ensures that everyone (from entry level volunteer to Board of Trus
 
 ---
 
-## Project Resources
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Risk Register | Complete risk register with all identified risks, scores, and treatment plans | [📊 risk_register.xlsx](risk_register.xlsx) |
-| Risk Management Policy | Organizational policy governing risk management framework | [📄 risk_management_policy.docx](risk_management_policy.docx) |
-| Asset Classification Diagram | Diagram showing asset inventory and ownership structure | [🖼️ asset_classification_diagram.docx](asset_classification_diagram.docx) |
-| Risk Matrix Diagram | Visual representation of the 5x5 risk matrix | [🖼️ risk_matrix_diagram.docx](risk_matrix_diagram.docx) |
-| Risk Treatment Process Diagram | Workflow of risk treatment and control implementation | [🖼️ risk_treatment_diagram.docx](risk_treatment_diagram.docx) |
 
 ---
 
 ## Contact
 
 **GRC Analyst:** Nyerovwo Obarueroro  
-**Date:** July 17, 2026  
+**Date:** July 17, 2025 
 **Organization:** Meridian Charity, Ashfield, England
 
 ---
 
-*This risk management project is a living document and should be reviewed and updated regularly to reflect the changing risk landscape and organizational needs.*
+*T
