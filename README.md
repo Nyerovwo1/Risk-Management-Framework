@@ -192,4 +192,3 @@ Communication ensures that everyone (from entry level volunteer to Board of Trus
 
 ---
 
-*T
