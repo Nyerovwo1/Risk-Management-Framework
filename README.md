@@ -46,7 +46,7 @@ Risk management is important because the charity handles sensitive information o
 
 ## Risk Management Policy
 
->  **[View the Risk Management Policy Document](/Assets/Risk%20management%20Policy.pdf)**
+>  **[View the Risk Management Policy Document](/risk%20management/Assets/Risk%20management%20Policy.pdf%201.pdf)**
 
 *The Risk Management Policy establishes the framework for how Meridian Charity identifies, assesses, and manages risks across the organization.*
 
