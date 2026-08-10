@@ -134,7 +134,7 @@ Meridian Charity's supports vulnerable people and handles sensitive information 
 
 The Risk Register is a core component of the Risk Management process. It provides a structured record of all identified risk that may affect the confidentiality, integrity and availability of Meridian Charity's assets. A Risk Register is essential because it supports informed decision-making allowing Board of Trustees to prioritize risks based on likelihood and impact, ensuring resources are allocated efficiently.
 
->  **[View the Complete Risk Register](/Assets/Risk%20Register.xlsx)**
+>  **[View the Complete Risk Register](./Assets/Risk%20Register.xlsx)**
 
 *The Risk Register contains all identified risks with their likelihood, impact, risk scores, owners, and treatment plans.*
 
